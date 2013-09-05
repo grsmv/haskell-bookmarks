@@ -1,9 +1,8 @@
-#### Haskell for beginners
+## Haskell for beginners
 
 * [Why the world needs Haskell](http://www.devalot.com/articles/2013/07/why-haskell.html)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 
----
 
 ## Parts of the language
 
@@ -68,7 +67,6 @@
 * [Making Haskell programs faster and smaller](http://users.aber.ac.uk/afc/stricthaskell.html)
 * [High-Performance Haskell (slides)](http://www.slideshare.net/tibbe/highperformance-haskell)
 
----
 
 ## Special purposes
 
@@ -81,7 +79,6 @@
 * [http-conduit Overview](http://www.yesodweb.com/book/http-conduit)
 * [Hakyll для начинающих (in russian)](http://habrahabr.ru/post/175877/)
 
----
 
 ## Tools and Libraries
 
@@ -110,10 +107,9 @@
 * [The hoopl package @ hackage](http://hackage.haskell.org/package/hoopl)
 * [A Hoopl Experience](http://nochair.net/posts/2013/02-20-a-hoopl-experience.html)
 * [Hoopl-related blogposts @ ezyang.com](http://blog.ezyang.com/category/ghc/hoopl/)
-* [Hoopl: A Modular, Reusable Library for Dataflow Analysis and Transformation](https://vimeo.com/16753485)
+* [Hoopl: A Modular, Reusable Library for Dataflow Analysis and Transformation (video)](https://vimeo.com/16753485)
 
 
----
 
 ## Ecosystem
 
@@ -159,7 +155,7 @@
 
 * [Recommended libraries](https://www.fpcomplete.com/school/ide-tutorials/recommended-libraries)
 
-#### Projects using Haskell
+#### Projects using Haskell and Haskell in production
 
 * [Combinatorrent - Writing Haskell Code for Fun and Profit](http://www.infoq.com/presentations/Combinatorrent-Haskell-casestudy)
 * [Haskell in Production @ ApiEngine](http://mth.io/talks/haskell-in-production/)
