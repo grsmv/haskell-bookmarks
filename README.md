@@ -2,6 +2,9 @@
 
 * [Why the world needs Haskell](http://www.devalot.com/articles/2013/07/why-haskell.html)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+* [Hello Haskell, Goodbye Scala](http://joshbassett.info/2013/hello-haskell-goodbye-scala/)
+* [Why Haskell?](http://net.tutsplus.com/tutorials/other/why-haskell/)
+* [Haskell foe kids](http://cdsmith.wordpress.com/2011/08/03/haskell-for-kids-introduction/)
 
 
 ## Parts of the language
@@ -78,6 +81,8 @@
 * [Yesod = Haskell $ Web (in russian)](http://habrahabr.ru/post/184058/)
 * [http-conduit Overview](http://www.yesodweb.com/book/http-conduit)
 * [Hakyll для начинающих (in russian)](http://habrahabr.ru/post/175877/)
+* [Haskell for Web Developers](http://www.stephendiehl.com/posts/haskell_web.html)
+* [Pronk. A small command line application for load testing web servers. ](https://github.com/bos/pronk)
 
 
 ## Tools and Libraries
@@ -85,6 +90,7 @@
 #### GHCi
 
 * [GHCi: More Awesome Than You Thought with Richard Minerich (video)](https://vimeo.com/68669612)
+* [GHCi's Debugger - Haskell from Scratch #2 (video)](http://www.youtube.com/watch?v=1OYljb_3Cdg)
 
 #### Cabal
 
@@ -101,6 +107,7 @@
 #### Hlint
 
 * [HLint Manual](http://community.haskell.org/~ndm/darcs/hlint/hlint.htm)
+* [HLint and Flymake - Haskell from Scratch #9 (video)](http://www.youtube.com/watch?v=aj7WF_Zm9zY)
 
 #### Hoopl
 
@@ -128,6 +135,11 @@
 
 * [School of Haskell published content](https://www.fpcomplete.com/recent-content)
 
+#### Style guide
+
+* [A style guide for Haskell code](https://github.com/tibbe/haskell-style-guide)
+* [Good Haskell Style](http://urchin.earth.li/~ian/style/haskell.html)
+
 #### University cources
 
 * [CS240h: Functional Systems in Haskell @ Stenford](http://www.scs.stanford.edu/11au-cs240h/)
@@ -142,14 +154,10 @@
 
 #### Community
 
-#### Exercises
+#### Videos
 
-#### Style guide
-* [A style guide for Haskell code](https://github.com/tibbe/haskell-style-guide)
-
-#### Testing
-
-#### Debugging and profiling
+* [YOW 2011 Simon Peyton Jones - Closer to Nirvana](http://www.youtube.com/watch?v=xmjvOLlCdFU)
+* [A history of Haskell : being lazy with class](http://www.youtube.com/watch?v=7NPBrWDzO2A&list=PLUWfjhrIRed8X8CbKbiIab6gfzqfqJmux)
 
 #### Libraries
 
@@ -157,6 +165,7 @@
 
 #### Projects using Haskell and Haskell in production
 
+* [Running a Startup on Haskell (Brian O'Sullivan)](http://www.infoq.com/presentations/Running-a-Startup-on-Haskell)
 * [Combinatorrent - Writing Haskell Code for Fun and Profit](http://www.infoq.com/presentations/Combinatorrent-Haskell-casestudy)
 * [Haskell in Production @ ApiEngine](http://mth.io/talks/haskell-in-production/)
 * [Haskell in production](http://www.shimweasel.com/hs_gbu/#1.0)
