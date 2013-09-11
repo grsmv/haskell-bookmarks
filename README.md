@@ -12,6 +12,7 @@
 #### Syntax
 
 * [Let vs. Where](http://www.haskell.org/haskellwiki/Let_vs._Where)
+* [Basic Syntax Extensions](https://www.fpcomplete.com/school/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions)
 
 #### IO
 
