@@ -152,6 +152,7 @@
 * [Communicating Haskell Processes](http://chplib.wordpress.com)
 * [Yesod Web Framework > Blog](http://www.yesodweb.com/blog/)
 * [Sententia cdsmithus](http://cdsmith.wordpress.com/category/haskell/)
+* [Conal Elliott](http://conal.net/blog/)
 
 #### Community
 
