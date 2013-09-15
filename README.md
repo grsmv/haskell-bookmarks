@@ -153,6 +153,7 @@
 * [Yesod Web Framework > Blog](http://www.yesodweb.com/blog/)
 * [Sententia cdsmithus](http://cdsmith.wordpress.com/category/haskell/)
 * [Conal Elliott](http://conal.net/blog/)
+* [О Haskell по-русски (in russian)](http://haskell-ru.tumblr.com)
 
 #### Community
 
