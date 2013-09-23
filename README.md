@@ -164,6 +164,7 @@
 
 * [YOW 2011 Simon Peyton Jones - Closer to Nirvana](http://www.youtube.com/watch?v=xmjvOLlCdFU)
 * [A history of Haskell : being lazy with class](http://www.youtube.com/watch?v=7NPBrWDzO2A&list=PLUWfjhrIRed8X8CbKbiIab6gfzqfqJmux)
+* [HaskellCasts](http://www.haskellcast.com)
 
 #### Libraries
 
