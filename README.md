@@ -24,6 +24,9 @@
 * [School of Haskell > Type Classes](https://www.fpcomplete.com/school/introduction-to-haskell/5-type-classes)
 * [Полиморфия и классы в Haskell (in russian)](http://habrahabr.ru/post/166353/)
 
+#### Types
+* [Newtype](http://www.haskell.org/haskellwiki/Newtype)
+
 #### Monads
 
 * [Why Do Monads Matter?](https://github.com/0xAX/erlang-bookmarks)
