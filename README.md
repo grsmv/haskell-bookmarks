@@ -56,6 +56,11 @@
 
 #### Distribute Haskell
 
+* [Cloud Haskell @ Haskell Wiki](http://www.haskell.org/haskellwiki/Cloud_Haskell)
+* [Distributive Haskell](http://haskell-distributed.github.io)
+* [The New Cloud Haskell @ Well Typed](http://www.well-typed.com/blog/70)
+* [Towards Haskell in the Cloud - Microsoft Research (pdf)](http://research.microsoft.com/~simonpj/papers/parallel/remote.pdf)
+
 #### Foreign Function Interface (FFI)
 
 * [GHC/Using the FFI](http://www.haskell.org/haskellwiki/GHC/Using_the_FFI)
@@ -134,6 +139,7 @@
 * [Parallel and Concurrent Programming in Haskell](http://shop.oreilly.com/product/0636920026365.do)
 * [Developing Web Applications with Haskell and Yesod](http://shop.oreilly.com/product/0636920023142.do)
 * [The Fun of Programming](http://www.cs.ox.ac.uk/publications/books/fop/)
+* [List of Books @ haskell.org](http://www.haskell.org/haskellwiki/Books)
 
 #### Tutorials and articles
 
