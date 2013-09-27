@@ -38,6 +38,7 @@
 #### Monoids
 
 * [Haskell Monoids and their Uses](http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html)
+* [Random thoughts on Haskell](http://blog.enfranchisedmind.com/2009/01/random-thoughts-on-haskell/)
 
 #### Applicative functors
 
