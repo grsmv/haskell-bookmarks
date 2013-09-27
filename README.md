@@ -16,6 +16,7 @@
 
 #### IO
 
+* [Explaining Haskell IO without Monads](http://neilmitchell.blogspot.com/2010/01/haskell-io-without-monads.html)
 * [Avoiding IO](http://www.haskell.org/haskellwiki/Avoiding_IO)
 
 #### Type Classes
@@ -125,8 +126,6 @@
 * [Hoopl-related blogposts @ ezyang.com](http://blog.ezyang.com/category/ghc/hoopl/)
 * [Hoopl: A Modular, Reusable Library for Dataflow Analysis and Transformation (video)](https://vimeo.com/16753485)
 
-
-
 ## Ecosystem
 
 #### Books
@@ -155,9 +154,9 @@
 * [CS240h: Functional Systems in Haskell @ Stenford](http://www.scs.stanford.edu/11au-cs240h/)
 * [Advanced Functional Programming @ Chalmers](http://www.cse.chalmers.se/edu/course/afp/)
 
-
 #### Blogs
 
+* [Neil Mitchell's Haskell Blog](http://neilmitchell.blogspot.com/)
 * [Contemplating code AKA Haskell Weekly News](http://contemplatecode.blogspot.com)
 * [Haskell for all](http://www.haskellforall.com)
 * [Communicating Haskell Processes](http://chplib.wordpress.com)
