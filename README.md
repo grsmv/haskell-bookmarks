@@ -140,6 +140,7 @@
 * [Developing Web Applications with Haskell and Yesod](http://shop.oreilly.com/product/0636920023142.do)
 * [The Fun of Programming](http://www.cs.ox.ac.uk/publications/books/fop/)
 * [List of Books @ haskell.org](http://www.haskell.org/haskellwiki/Books)
+* [Haskell Tutorial for C Programmers](http://www.haskell.org/haskellwiki/Haskell_Tutorial_for_C_Programmers)
 
 #### Tutorials and articles
 
