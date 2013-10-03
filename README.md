@@ -74,6 +74,8 @@
 * [The Glorious Glasgow Haskell Compilation System User's Guide, Version 6.4.2](http://www.haskell.org/ghc/docs/6.4.2/html/users_guide/index.html)
 * [Pragmas](http://www.haskell.org/ghc/docs/7.0.3/html/users_guide/pragmas.html)
 * [Interactive evaluation at the prompt](http://www.haskell.org/ghc/docs/7.4.1/html/users_guide/interactive-evaluation.html)
+* [GHC Core by Example, Episode 1: Hello, Core!](http://alpmestan.com/2013/06/27/ghc-core-by-example-episode-1/)
+* [GHC Core by Example, Episode 2: Evaluation](http://alpmestan.com/2013/10/01/ghc-core-by-example-episode-2-evaluation/)
 
 #### Other
 
@@ -166,6 +168,7 @@
 * [Sententia cdsmithus](http://cdsmith.wordpress.com/category/haskell/)
 * [Conal Elliott](http://conal.net/blog/)
 * [О Haskell по-русски (in russian)](http://haskell-ru.tumblr.com)
+* [Alp Mestanogullari](http://alpmestan.com/)
 
 #### Community
 
