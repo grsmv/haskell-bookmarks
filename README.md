@@ -189,3 +189,8 @@
 * [Haskell in Production @ ApiEngine](http://mth.io/talks/haskell-in-production/)
 * [Haskell in production](http://www.shimweasel.com/hs_gbu/#1.0)
 * [Infrastructure for Commercial Haskell with Gregg Lebovitz of FP Complete (video)](https://vimeo.com/63626614)
+
+#### Jobs
+
+* [Functional Jobs](http://functionaljobs.com/)
+* [functionaljobs@identi.ca](http://functionaljobs.com/)
