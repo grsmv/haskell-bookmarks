@@ -169,6 +169,7 @@
 * [Conal Elliott](http://conal.net/blog/)
 * [О Haskell по-русски (in russian)](http://haskell-ru.tumblr.com)
 * [Alp Mestanogullari](http://alpmestan.com/)
+* [Control.Monad.Writer](http://donsbot.wordpress.com/)
 
 #### Community
 
