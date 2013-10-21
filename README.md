@@ -62,6 +62,7 @@
 * [Distributive Haskell](http://haskell-distributed.github.io)
 * [The New Cloud Haskell @ Well Typed](http://www.well-typed.com/blog/70)
 * [Towards Haskell in the Cloud - Microsoft Research (pdf)](http://research.microsoft.com/~simonpj/papers/parallel/remote.pdf)
+* [distributed-process library @ github](https://github.com/haskell-distributed/distributed-process)
 
 #### Foreign Function Interface (FFI)
 
