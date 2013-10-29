@@ -4,7 +4,8 @@
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 * [Hello Haskell, Goodbye Scala](http://joshbassett.info/2013/hello-haskell-goodbye-scala/)
 * [Why Haskell?](http://net.tutsplus.com/tutorials/other/why-haskell/)
-* [Haskell foe kids](http://cdsmith.wordpress.com/2011/08/03/haskell-for-kids-introduction/)
+* [Haskell for kids](http://cdsmith.wordpress.com/2011/08/03/haskell-for-kids-introduction/)
+* [How to Start a New Haskell Project](http://jabberwocky.eu/2013/10/24/how-to-start-a-new-haskell-project/)
 
 
 ## Parts of the language
