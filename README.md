@@ -35,6 +35,7 @@
 * [Three Useful Monads](http://adit.io/posts/2013-06-10-three-useful-monads.html)
 * [A tour of the Haskell Monad functions](http://members.chello.nl/hjgtuyl/tourdemonad.html)
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
+* [Micro-tutorial: liftM by accident](http://www.reddit.com/r/haskell/comments/1pd1ep/microtutorial_liftm_by_accident/)
 
 #### Monoids
 
