@@ -50,6 +50,7 @@
 #### Lenses
 
 * [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
+* [Lenses, Folds, and Traversals (youtube)](http://www.youtube.com/watch?v=cefnmjtAolY)
 
 #### Data structures
 
