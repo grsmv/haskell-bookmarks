@@ -51,6 +51,10 @@
 
 * [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 
+#### Data structures
+
+* [Zippers: Making Functional “Updates” Efficient](http://scienceblogs.com/goodmath/2010/01/13/zippers-making-functional-upda/)
+
 #### Concurrent Haskell
 
 * [Introduction to Concurrent Haskell](http://www.infoq.com/presentations/Concurrent-Haskell)
