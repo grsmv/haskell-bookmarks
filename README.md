@@ -204,3 +204,8 @@
 
 * [Functional Jobs](http://functionaljobs.com/)
 * [functionaljobs@identi.ca](http://functionaljobs.com/)
+
+
+#### Events
+
+* [Commercial Users Of Functional Programming](http://cufp.org/conference)
