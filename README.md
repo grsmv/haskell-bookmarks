@@ -209,3 +209,4 @@
 #### Events
 
 * [Commercial Users Of Functional Programming](http://cufp.org/conference)
+* [Code Mesh: The Altenative Programming Conference](http://codemesh.io)
