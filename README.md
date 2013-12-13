@@ -86,6 +86,7 @@
 
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [Applicative Functors @ WikiBooks](http://en.wikibooks.org/wiki/Haskell/Applicative_Functors)
+* [Why do we have map, fmap and liftM? (StackOverflow)](http://stackoverflow.com/questions/7463500/why-do-we-have-map-fmap-and-liftm)
 
 #### Lenses
 
@@ -116,6 +117,7 @@
 * [GHC/Using the FFI](http://www.haskell.org/haskellwiki/GHC/Using_the_FFI)
 * [Real World Haskell > Interfacing with C: the FFI](http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html)
 * [Haskell/FFI Wikibook](http://en.wikibooks.org/wiki/Haskell/FFI)
+* [Haskell foreign import stdcall on DLL function (StackOverflow)](http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function)
 
 #### GHC and GHC-specific
 
