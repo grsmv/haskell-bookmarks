@@ -25,6 +25,7 @@
   - [QuickCheck](#quickcheck)
   - [Hlint](#hlint)
   - [Hoopl](#hoopl)
+  - [Profiling](#profiling)
 - [Ecosystem](#ecosystem)
   - [Books](#books)
   - [Tutorials and articles](#tutorials-and-articles)
