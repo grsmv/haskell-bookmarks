@@ -227,6 +227,7 @@
 * [О Haskell по-русски (in russian)](http://haskell-ru.tumblr.com)
 * [Alp Mestanogullari](http://alpmestan.com/)
 * [Control.Monad.Writer](http://donsbot.wordpress.com/)
+* [24 days of hackage](http://ocharles.org.uk/blog/)
 
 #### Community
 
