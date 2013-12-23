@@ -15,11 +15,11 @@
   - [Parallel Haskell](#parallel-haskell)
   - [Distribute Haskell](#distribute-haskell)
   - [Foreign Function Interface](#foreign-function-interface-ffi)
-  - [GHC and GHC-specific](#ghc-and-ghc-specific)
   - [Other](#other)
 - [Spedical Purposes](#special-purposes)
   - [Web Programming](#web-programming)
 - [Tools and Libraries](#tools-and-libraries)
+  - [GHC and GHC-specific](#ghc-and-ghc-specific)
   - [GHCi](#ghci)
   - [Cabal](#cabal)
   - [QuickCheck](#quickcheck)
@@ -119,14 +119,6 @@
 * [Haskell/FFI Wikibook](http://en.wikibooks.org/wiki/Haskell/FFI)
 * [Haskell foreign import stdcall on DLL function (StackOverflow)](http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function)
 
-#### GHC and GHC-specific
-
-* [The Glorious Glasgow Haskell Compilation System User's Guide, Version 6.4.2](http://www.haskell.org/ghc/docs/6.4.2/html/users_guide/index.html)
-* [Pragmas](http://www.haskell.org/ghc/docs/7.0.3/html/users_guide/pragmas.html)
-* [Interactive evaluation at the prompt](http://www.haskell.org/ghc/docs/7.4.1/html/users_guide/interactive-evaluation.html)
-* [GHC Core by Example, Episode 1: Hello, Core!](http://alpmestan.com/2013/06/27/ghc-core-by-example-episode-1/)
-* [GHC Core by Example, Episode 2: Evaluation](http://alpmestan.com/2013/10/01/ghc-core-by-example-episode-2-evaluation/)
-
 #### Other
 
 * [Hidden features of Haskell](http://stackoverflow.com/questions/211216/hidden-features-of-haskell)
@@ -149,6 +141,14 @@
 
 
 ## Tools and Libraries
+
+#### GHC and GHC-specific
+
+* [The Glorious Glasgow Haskell Compilation System User's Guide, Version 6.4.2](http://www.haskell.org/ghc/docs/6.4.2/html/users_guide/index.html)
+* [Pragmas](http://www.haskell.org/ghc/docs/7.0.3/html/users_guide/pragmas.html)
+* [Interactive evaluation at the prompt](http://www.haskell.org/ghc/docs/7.4.1/html/users_guide/interactive-evaluation.html)
+* [GHC Core by Example, Episode 1: Hello, Core!](http://alpmestan.com/2013/06/27/ghc-core-by-example-episode-1/)
+* [GHC Core by Example, Episode 2: Evaluation](http://alpmestan.com/2013/10/01/ghc-core-by-example-episode-2-evaluation/)
 
 #### GHCi
 
@@ -178,6 +178,12 @@
 * [A Hoopl Experience](http://nochair.net/posts/2013/02-20-a-hoopl-experience.html)
 * [Hoopl-related blogposts @ ezyang.com](http://blog.ezyang.com/category/ghc/hoopl/)
 * [Hoopl: A Modular, Reusable Library for Dataflow Analysis and Transformation (video)](https://vimeo.com/16753485)
+
+#### Profiling
+* [How to profile a Haskell program](http://www.haskell.org/haskellwiki/How_to_profile_a_Haskell_program)
+* [Tools for analyzing performance of a Haskell program (StackOverflow)](http://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program)
+* [Real World Haskell > Chapter 25. Profiling and optimization](http://book.realworldhaskell.org/read/profiling-and-optimization.html)
+
 
 ## Ecosystem
 
