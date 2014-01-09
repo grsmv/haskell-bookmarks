@@ -228,6 +228,7 @@
 * [Alp Mestanogullari](http://alpmestan.com/)
 * [Control.Monad.Writer](http://donsbot.wordpress.com/)
 * [24 days of hackage](http://ocharles.org.uk/blog/)
+* [Just Testing](http://justtesting.org)
 
 #### Community
 
