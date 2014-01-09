@@ -161,6 +161,7 @@
 * [The Haskell Cabal](http://www.haskell.org/cabal/)
 * [Cabal all the things! with Josh Hawkins (video)](https://vimeo.com/67171757)
 * [How to make a Cabal package](http://www.haskell.org/haskellwiki/How_to_write_a_Haskell_program)
+* [An Introduction to Cabal sandboxes](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
 
 #### QuickCheck
 
