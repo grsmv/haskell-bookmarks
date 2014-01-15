@@ -129,7 +129,7 @@
 
 ## Special purposes
 
-#### Web programming
+### Web programming
 
 * [Yesod Web Framework](http://www.yesodweb.com)
 * [Making A Website With Haskell](http://adit.io/posts/2013-04-15-making-a-website-with-haskell.html)
@@ -140,6 +140,45 @@
 * [Haskell for Web Developers](http://www.stephendiehl.com/posts/haskell_web.html)
 * [Pronk. A small command line application for load testing web servers. ](https://github.com/bos/pronk)
 
+#### Happstack vs Yesod vs Snap
+
+* [Comparing Haskell's Snap and Yesod web frameworks](http://stackoverflow.com/questions/5645168/comparing-haskells-snap-and-yesod-web-frameworks)
+* [A Hopefully Fair and Useful Comparison of Haskell Web Frameworks](http://softwaresimply.blogspot.co.uk/2012/04/hopefully-fair-and-useful-comparison-of.htm)
+
+#### Yesod
+
+* [Building a File Hosting Service in Yesod](https://www.fpcomplete.com/school/advanced-haskell/building-a-file-hosting-service-in-yesod)
+* [Haskell web programming - A Yesod tutorial](http://yannesposito.com/Scratch/en/blog/Yesod-tutorial-for-newbies/)
+* [Yesod: Learning Through Doing](https://www.fpcomplete.com/user/twoolie/yesod-learning-through-doing)
+* [Yesod Tutorial 1. My First Web Site](https://www.fpcomplete.com/blog/2012/10/yesod-tutorial-1-my-first-web-site)
+* [Yesod Tutorial 2. Playing with Routes and Links](https://www.fpcomplete.com/blog/2012/10/yesod-tutorial-2-playing-with-routes-and-links)
+* [Yesod Routing](https://www.fpcomplete.com/user/chad/snippets/yesod-routing)
+* [Web application with concurrency](https://www.fpcomplete.com/school/to-infinity-and-beyond/pick-of-the-week/web-application-with-concurrency)
+* [Database access](https://www.fpcomplete.com/school/starting-with-haskell/libraries-and-frameworks/persistent-db)
+* [Typesafe URLs in client-side code](https://www.fpcomplete.com/user/snoyberg/yesod/typesafe-urls-in-client-side-code)
+* [Snipp.IO: A pastebin made out of Haskell, Yesod and mongodb](http://charlieharvey.org.uk/page/yesod_mongodb_snippio_pastebin_howto)
+* [Yesod Mongo DB and JSON](http://stackoverflow.com/questions/18808393/yesod-mongo-db-and-json)
+* [Non scaffolded MongoDB App](https://github.com/yesodweb/yesod/wiki/Non-scaffolded-MongoDB-App)
+
+#### Snap
+
+* [Snap tutorial](https://github.com/J-Hannes/snap-tutorial)
+* [WHAT ARE SNAPLETS?](http://snapframework.com/docs/tutorials/snaplets-tutorial)
+* [Tutorial: Building a Sample Application with Haskell Snap, PostgreSQL, and the PostgreSQL Simple Snaplet](http://janrain.com/blog/tutorial-building-a-sample-application-with-haskell-snap-postgresql-and-the-postgresql-simple-snaplet/)
+* [A Haskell newbie's guide to the Snap framework](http://learnmeahaskell.blogspot.com/2011/05/few-notes-on-learning-snap-framework.html)
+* [A Haskell newbie's guide to Snap, Part 2](http://learnmeahaskell.blogspot.com/2011/07/haskell-newbies-guide-to-snap-part-2.html)
+* [/r/snapframework](http://www.reddit.com/r/snapframework/)
+* [The Pragmatic Haskeller > Episode 2. Snap](https://www.fpcomplete.com/user/adinapoli/the-pragmatic-haskeller/episode-2-snap)
+* [24 Days of Hackage: snap](http://ocharles.org.uk/blog/posts/2012-12-19-24-days-of-hackage-snap.html)
+* [AngularJS with Haskell](http://nurpax.github.io/posts/2013-01-13-angularjs-and-haskell.html)
+* [Snap Framework: Compiled splices and processing forms with digestive functors](http://stackoverflow.com/questions/16245119/snap-framework-compiled-splices-and-processing-forms-with-digestive-functors)
+
+##### Project, written with Snap
+
+* [Building a Link Shortener with Haskell (and Snap) with Ryan Trinkle](http://vimeo.com/59109358)
+* [ryantrinkle/memoise](https://github.com/ryantrinkle/memoise)
+* [dikmax/haskell-blog](https://github.com/dikmax/haskell-blog/)
+* [nurpax/snap-example (Snap + AngularJS)](https://github.com/nurpax/snap-examples)
 
 ## Tools and Libraries
 
@@ -230,6 +269,7 @@
 * [Control.Monad.Writer](http://donsbot.wordpress.com/)
 * [24 days of hackage](http://ocharles.org.uk/blog/)
 * [Just Testing](http://justtesting.org)
+* [Chris Done](http://chrisdone.com/tags/haskell)
 
 #### Community
 
@@ -239,6 +279,8 @@
 * [YOW 2011 Simon Peyton Jones - Closer to Nirvana](http://www.youtube.com/watch?v=xmjvOLlCdFU)
 * [A history of Haskell : being lazy with class](http://www.youtube.com/watch?v=7NPBrWDzO2A&list=PLUWfjhrIRed8X8CbKbiIab6gfzqfqJmux)
 * [HaskellCasts](http://www.haskellcast.com)
+* [Haskell Live - Episode 1: The Chess Board](http://www.youtube.com/watch?v=ScS8Q32lMxA)
+* [Haskell Live - Episode 2: Time To Refactor](http://www.youtube.com/watch?v=6KkF5-_erns)
 
 #### Libraries
 
