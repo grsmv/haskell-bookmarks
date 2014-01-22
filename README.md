@@ -9,7 +9,7 @@
   - [Monads](#monads)
   - [Monoids](#monoids)
   - [Applicative Functors](#applicative-functors)
-  - [Lenses](#lenses)
+  - [Lenses](#lenses)u
   - [Data Structures](#data-structures)
   - [Concurrent Haskell](#concurrent-haskell)
   - [Parallel Haskell](#parallel-haskell)
@@ -159,6 +159,7 @@
 * [Snipp.IO: A pastebin made out of Haskell, Yesod and mongodb](http://charlieharvey.org.uk/page/yesod_mongodb_snippio_pastebin_howto)
 * [Yesod Mongo DB and JSON](http://stackoverflow.com/questions/18808393/yesod-mongo-db-and-json)
 * [Non scaffolded MongoDB App](https://github.com/yesodweb/yesod/wiki/Non-scaffolded-MongoDB-App)
+* [Allowing cross-origin requests in Yesod](http://programmers.fbgamehack.com/1202975/allowing-cross-origin-requests-in-yesod)
 
 #### Snap
 
