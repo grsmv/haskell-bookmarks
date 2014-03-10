@@ -32,6 +32,7 @@
   - [Style Guide](#style-guide)
   - [University Cources](#university-cources)
   - [Blogs](#blogs)
+  - [Planets](#planets)
   - [Community](#community)
   - [Videos](#videos)
   - [Libraries](#libraries)
@@ -272,6 +273,10 @@
 * [24 days of hackage](http://ocharles.org.uk/blog/)
 * [Just Testing](http://justtesting.org)
 * [Chris Done](http://chrisdone.com/tags/haskell)
+
+
+#### Planets
+* [russian lambda planet](http://fprog.ru/planet/)
 
 #### Community
 
