@@ -277,6 +277,7 @@
 
 #### Planets
 * [russian lambda planet](http://fprog.ru/planet/)
+* [Haskell News](http://haskellnews.org)
 
 #### Community
 
