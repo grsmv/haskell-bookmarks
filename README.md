@@ -9,7 +9,7 @@
   - [Monads](#monads)
   - [Monoids](#monoids)
   - [Applicative Functors](#applicative-functors)
-  - [Lenses](#lenses)u
+  - [Lenses](#lenses)
   - [Data Structures](#data-structures)
   - [Concurrent Haskell](#concurrent-haskell)
   - [Parallel Haskell](#parallel-haskell)
@@ -204,6 +204,7 @@
 * [Cabal all the things! with Josh Hawkins (video)](https://vimeo.com/67171757)
 * [How to make a Cabal package](http://www.haskell.org/haskellwiki/How_to_write_a_Haskell_program)
 * [An Introduction to Cabal sandboxes](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
+* [Information Generation With Cabal And Git](http://www.hyperedsoftware.com/blog/entries/build-info-gen.html)
 
 #### QuickCheck
 
