@@ -274,6 +274,7 @@
 * [24 days of hackage](http://ocharles.org.uk/blog/)
 * [Just Testing](http://justtesting.org)
 * [Chris Done](http://chrisdone.com/tags/haskell)
+* [Chtomatic Leaves](http://chromaticleaves.com)
 
 
 #### Planets
