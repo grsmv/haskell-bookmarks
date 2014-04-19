@@ -121,6 +121,7 @@
 * [Real World Haskell > Interfacing with C: the FFI](http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html)
 * [Haskell/FFI Wikibook](http://en.wikibooks.org/wiki/Haskell/FFI)
 * [Haskell foreign import stdcall on DLL function (StackOverflow)](http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function)
+* [GHC 7.8′s -staticlib flag](http://maxs.io/ghc-78-static-lib-flag/)
 
 #### Other
 
