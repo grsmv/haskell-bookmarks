@@ -16,6 +16,7 @@
   - [Distribute Haskell](#distribute-haskell)
   - [Foreign Function Interface](#foreign-function-interface-ffi)
   - [Other](#other)
+- [Design patterns and architecture](#design-patterns-and-architecture)
 - [Spedical Purposes](#special-purposes)
   - [Web Programming](#web-programming)
 - [Tools and Libraries](#tools-and-libraries)
@@ -123,11 +124,25 @@
 * [Haskell foreign import stdcall on DLL function (StackOverflow)](http://stackoverflow.com/questions/1027246/haskell-foreign-import-stdcall-on-dll-function)
 * [GHC 7.8′s -staticlib flag](http://maxs.io/ghc-78-static-lib-flag/)
 
+
 #### Other
 
 * [Hidden features of Haskell](http://stackoverflow.com/questions/211216/hidden-features-of-haskell)
 * [Making Haskell programs faster and smaller](http://users.aber.ac.uk/afc/stricthaskell.html)
 * [High-Performance Haskell (slides)](http://www.slideshare.net/tibbe/highperformance-haskell)
+
+### Design patterns and architecture
+
+* [Haskell application architecture best practices [SO]](http://www.reddit.com/r/haskell/comments/223i80/haskell_application_architecture_best_practices/)
+* [Large-scale design in Haskell? [SO]](http://stackoverflow.com/questions/3077866/large-scale-design-in-haskell)
+* [Engineering Large Projects in Haskell: A Decade of FP at Galois](http://corp.galois.com/blog/2009/4/27/engineering-large-projects-in-haskell-a-decade-of-fp-at-galo.html)
+* [The Design and Implementation of XMonad](http://xmonad.wordpress.com/2009/09/09/the-design-and-implementation-of-xmonad/)
+* [The functor design pattern](http://www.haskellforall.com/2012/09/the-functor-design-pattern.html)
+* [The category design pattern](http://www.haskellforall.com/2012/08/the-category-design-pattern.html)
+* [Patterns in Functional Programming](http://patternsinfp.wordpress.com)
+* [Дизайн и архитектура в ФП. Введение и Часть 1 [Russian]](http://habrahabr.ru/post/211871/)
+* [Дизайн и архитектура в ФП. Часть 2 [Russian]](http://habrahabr.ru/post/215161/)
+
 
 
 ## Special purposes
