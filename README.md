@@ -81,6 +81,7 @@
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html)
 * [Micro-tutorial: liftM by accident](http://www.reddit.com/r/haskell/comments/1pd1ep/microtutorial_liftm_by_accident/)
 * [Monads, Arrows, and Idioms - Collection of papers](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
+* [Monad Transformers Step by Step (pdf)](http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf)
 
 #### Monoids
 
