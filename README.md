@@ -50,6 +50,7 @@
 * [Haskell for kids](http://cdsmith.wordpress.com/2011/08/03/haskell-for-kids-introduction/)
 * [How to Start a New Haskell Project](http://jabberwocky.eu/2013/10/24/how-to-start-a-new-haskell-project/)
 * [What I Wish I Knew When Learning Haskell 2.0](http://dev.stephendiehl.com/hask/)
+* [Haskeleton: A Haskell Project Skeleton](http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/)
 
 
 ## Parts of the language
