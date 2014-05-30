@@ -37,6 +37,7 @@
   - [Community](#community)
   - [Videos](#videos)
   - [Libraries](#libraries)
+  - [Editors](#editors)
   - [Projects using Haskell and Haskell in production](#projects-using-haskell-and-haskell-in-production)
   - [Jobs](#jobs)
   - [Events](#events)
@@ -315,6 +316,11 @@
 #### Libraries
 
 * [Recommended libraries](https://www.fpcomplete.com/school/ide-tutorials/recommended-libraries)
+
+#### Editors
+
+* [A Vim + Haskell Workflow](http://www.stephendiehl.com/posts/vim_haskell.html)
+
 
 #### Projects using Haskell and Haskell in production
 
