@@ -296,6 +296,7 @@
 * [Just Testing](http://justtesting.org)
 * [Chris Done](http://chrisdone.com/tags/haskell)
 * [Chtomatic Leaves](http://chromaticleaves.com)
+* [Inside 206-105](http://blog.ezyang.com/category/haskell/)
 
 
 #### Planets
