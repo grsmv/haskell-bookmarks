@@ -265,6 +265,14 @@
 * [The Fun of Programming](http://www.cs.ox.ac.uk/publications/books/fop/)
 * [List of Books @ haskell.org](http://www.haskell.org/haskellwiki/Books)
 * [Haskell Tutorial for C Programmers](http://www.haskell.org/haskellwiki/Haskell_Tutorial_for_C_Programmers)
+* [The Haskell Road to Logic, Math and Programming](http://homepages.cwi.nl/~jve/HR/)
+* [The Haskell School of Music](http://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
+* [The Haskell School of Expression: Learning Functional Programming through Multimedia](http://www.amazon.com/The-Haskell-School-Expression-Programming/dp/0521644089)
+* [Beginning Haskell A Project-Based Approach](http://www.apress.com/9781430262503)
+* [Pearls of Functional Algorithm Design](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/pearls-functional-algorithm-design?format=HB)
+* [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+* [Haskell Financial Data Modeling and Predictive Analytics](http://www.packtpub.com/haskell-financial-data-modeling-and-predictive-analytics/book)
+* [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 
 #### Tutorials and articles
 
