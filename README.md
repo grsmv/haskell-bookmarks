@@ -249,6 +249,7 @@
 * [How to profile a Haskell program](http://www.haskell.org/haskellwiki/How_to_profile_a_Haskell_program)
 * [Tools for analyzing performance of a Haskell program (StackOverflow)](http://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program)
 * [Real World Haskell > Chapter 25. Profiling and optimization](http://book.realworldhaskell.org/read/profiling-and-optimization.html)
+* [Easy Haskell Profiling](http://danielvelkov.blogspot.ru/2014/08/easy-haskell-profiling.html)
 
 
 ## Ecosystem
