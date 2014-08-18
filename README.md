@@ -226,6 +226,7 @@
 * [How to make a Cabal package](http://www.haskell.org/haskellwiki/How_to_write_a_Haskell_program)
 * [An Introduction to Cabal sandboxes](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
 * [Information Generation With Cabal And Git](http://www.hyperedsoftware.com/blog/entries/build-info-gen.html)
+* [Avoiding Cabal hell (Reddit comment)](http://www.reddit.com/r/haskell/comments/2al3vx/how_do_you_avoid_the_cabal_hell/ciwd33h)
 
 #### QuickCheck
 
