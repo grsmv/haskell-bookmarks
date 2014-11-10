@@ -274,6 +274,8 @@
 * [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 * [Haskell Financial Data Modeling and Predictive Analytics](http://www.packtpub.com/haskell-financial-data-modeling-and-predictive-analytics/book)
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
+* [Thinking Functionally with Haskell](http://www.amazon.com/dp/1107452643/ref=cm_sw_su_dp)
+* [Speeding Through Haskell](http://www.etnassoft.com/biblioteca/speeding-through-haskell/)
 
 #### Tutorials and articles
 
@@ -324,6 +326,7 @@
 * [HaskellCasts](http://www.haskellcast.com)
 * [Haskell Live - Episode 1: The Chess Board](http://www.youtube.com/watch?v=ScS8Q32lMxA)
 * [Haskell Live - Episode 2: Time To Refactor](http://www.youtube.com/watch?v=6KkF5-_erns)
+* [Кубенский Александр Александрович - Функциональное программирование на примере языка Haskell @ CompSciCenter.ru / lektorium.tv (in russian)](http://www.lektorium.tv/course/22848)
 
 #### Libraries
 
