@@ -326,7 +326,7 @@
 * [HaskellCasts](http://www.haskellcast.com)
 * [Haskell Live - Episode 1: The Chess Board](http://www.youtube.com/watch?v=ScS8Q32lMxA)
 * [Haskell Live - Episode 2: Time To Refactor](http://www.youtube.com/watch?v=6KkF5-_erns)
-* [Кубенский Александр Александрович - Функциональное программирование на примере языка Haskell @ CompSciCenter.ru / lektorium.tv](http://www.lektorium.tv/course/22848)
+* [Кубенский Александр Александрович - Функциональное программирование на примере языка Haskell @ CompSciCenter.ru / lektorium.tv (in russian)](http://www.lektorium.tv/course/22848)
 
 #### Libraries
 
