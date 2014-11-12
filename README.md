@@ -276,6 +276,7 @@
 * [Haskell Data Analysis Cookbook](http://haskelldata.com/)
 * [Thinking Functionally with Haskell](http://www.amazon.com/dp/1107452643/ref=cm_sw_su_dp)
 * [Speeding Through Haskell](http://www.etnassoft.com/biblioteca/speeding-through-haskell/)
+* [Game programming in Haskell](https://leanpub.com/gameinhaskell)
 
 #### Tutorials and articles
 
