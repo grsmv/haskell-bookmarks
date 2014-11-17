@@ -251,6 +251,7 @@
 * [Tools for analyzing performance of a Haskell program (StackOverflow)](http://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program)
 * [Real World Haskell > Chapter 25. Profiling and optimization](http://book.realworldhaskell.org/read/profiling-and-optimization.html)
 * [Easy Haskell Profiling](http://danielvelkov.blogspot.ru/2014/08/easy-haskell-profiling.html)
+* [Performance profiling with ghc-events-analyze](http://www.well-typed.com/blog/86/)
 
 
 ## Ecosystem
