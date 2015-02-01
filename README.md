@@ -213,6 +213,7 @@
 * [Interactive evaluation at the prompt](http://www.haskell.org/ghc/docs/7.4.1/html/users_guide/interactive-evaluation.html)
 * [GHC Core by Example, Episode 1: Hello, Core!](http://alpmestan.com/2013/06/27/ghc-core-by-example-episode-1/)
 * [GHC Core by Example, Episode 2: Evaluation](http://alpmestan.com/2013/10/01/ghc-core-by-example-episode-2-evaluation/)
+* [Stop (ab)using CPP in Haskell sources](http://blog.haskell-exists.com/yuras/posts/stop-abusing-cpp-in-haskell.html)
 
 #### GHCi
 
